@@ -35,5 +35,8 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
-# R Environment Variables
-.Renviron
+# Data Files
+*.xls
+#.xlsx
+*.csv
+*.RData
